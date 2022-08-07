@@ -1,5 +1,5 @@
 import java.util.*;
-//program to generate random integers between 1 to "
+//program to generate random integers between 1 to 666666"
 public class Main{
 	public static void main(String[] args){
 		Random random = new Random();
