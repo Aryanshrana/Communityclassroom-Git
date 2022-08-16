@@ -7,11 +7,13 @@ class Aryansh{
     
     public static void main(String args[])
     {
-        float ans;
+        float ans,ans1;
         Aryansh s1 = new Aryansh();
+	Aryansh s2 = new Aryansh();
         ans = s1.simple(4000,10.5f,4);
-        
-        System.out.println(ans);
+        ans1 = s2.simple(3000,4.5f,2);
+        System.out.println("The simple intrest for 1st output "+ans);
+	System.out.println("The simple intrest for 2nd outout is "+ans1);
     }
 }
 
