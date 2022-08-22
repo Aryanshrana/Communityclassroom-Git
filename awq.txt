@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 hello it is a new file
 working on branches
+=======
+write code carefully;
+learn about branches;
+learn about checkout;
+learn about mearge;
+
+>>>>>>> sc_branch
