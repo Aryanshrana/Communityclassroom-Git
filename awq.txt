@@ -1,0 +1,5 @@
+write code carefully;
+learn about branches;
+learn about checkout;
+learn about mearge;
+
