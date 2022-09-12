@@ -1,0 +1,2 @@
+Merging is a safe option that preserves the entire history of your repository, while rebasing creates a linear history by moving your feature branch onto the tip of main
+
