@@ -1,2 +1,2 @@
 Merging is a safe option that preserves the entire history of your repository, while rebasing creates a linear history by moving your feature branch onto the tip of main
-
+Rebasing is the process of moving or combinig a sequence of commits to a new base commit.
