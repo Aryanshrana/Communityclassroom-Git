@@ -8,6 +8,7 @@ class Targaryen import Dragon
 {
 	String nameofDragon;
 	void Dragondetails(String nameofDragon){
+		System.out.println("Dragon - "+nameofDragon);
 		System.out.println("master name = "+"Daemon Targaryen");
 		System.out.print(" master of dragonstones");
 		System.out.println("Dragon color"+" red");
