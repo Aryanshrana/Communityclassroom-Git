@@ -31,6 +31,6 @@ class Demo{
 		double m = a1.multiply(12.98,78.97);
 		float d = a1.division(125.7f,5.7f);
 		float s1 = a1.minus(12.9f,3.8f);
-		System.out.println(s + m + d + s1);
+		System.out.println("sum of all - "s + m + d + s1);
 	}
 }
